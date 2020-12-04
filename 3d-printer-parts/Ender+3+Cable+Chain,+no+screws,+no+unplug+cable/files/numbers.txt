@@ -1,0 +1,9 @@
+big link: 29 / 28
+
+small link: 2 / 19
+
+motor mount: 0 / 1
+
+kette klein untin: 0 / 1
+
+kette gros untin: 0 / 2
